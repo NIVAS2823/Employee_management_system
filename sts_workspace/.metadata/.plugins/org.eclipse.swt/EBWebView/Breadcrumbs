@@ -1,0 +1,30 @@
+0:42:22 Tab4 RenderProcessGone
+0:42:22 Browser4 Close Tab4 at 0
+0:42:22 Tab4 WebContentsDestroyed
+0:42:22 Microsoft.Shutdown.OnWindowClosing
+0:42:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:42:22 Widget Closed: BrowserFrame
+0:42:22 Microsoft.Shutdown.OnWindowClosing
+0:42:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:42:22 Microsoft.Browser_Removed
+0:42:22 Microsoft.Shutdown.OnWindowClosing
+0:42:22 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:42:22 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:42:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:42:22 Tab5 RenderProcessGone
+0:42:22 Browser5 Close Tab5 at 0
+0:42:22 Tab5 WebContentsDestroyed
+0:42:22 Microsoft.Shutdown.OnWindowClosing
+0:42:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:42:22 Widget Closed: BrowserFrame
+0:42:22 Microsoft.Shutdown.OnWindowClosing
+0:42:22 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:42:22 Microsoft.Last_Browser_Removed
+0:42:22 Microsoft.Shutdown.ShutdownIfNoBrowsers
+0:42:22 Microsoft.Shutdown.SetTryingToQuit_Quitting
+0:42:22 Microsoft.Shutdown.NotifyAppTerminating
+0:42:22 Microsoft.Shutdown.OnAppExiting
+0:42:22 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+0:42:22 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+0:42:22 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+0:42:22 Shutdown
